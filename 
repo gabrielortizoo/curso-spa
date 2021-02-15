@@ -1,0 +1,20 @@
+
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+#
+# On branch master
+#
+# Initial commit 
+# Changes to be committed:
+#	new file:   .gitignore
+#	new file:   dist/index.html
+#	new file:   dist/main.js
+#	new file:   package-lock.json
+#	new file:   package.json
+#	new file:   public/index.html
+#	new file:   src/index.js
+#	new file:   src/pages/Character.js
+#	new file:   src/pages/Home.js
+#	new file:   src/templates/Header.js
+#	new file:   webpack.config.js
+#
