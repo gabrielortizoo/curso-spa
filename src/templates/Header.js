@@ -1,5 +1,5 @@
 const Header = () => {
-  const view = (
+  const view = `
     <div className="Header-main">
       <div className="Header-logo">
         <h1>
@@ -10,7 +10,7 @@ const Header = () => {
         <a href="#/about/">About</a>
       </div>
     </div>
-  );
+    `;
   return view;
 };
 
